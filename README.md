@@ -19,9 +19,9 @@ inspiration on how to create a responsive hamburger menu button using JavaScript
 https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0
 https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
 
-personal logo:</br>
+custom logo designed using free tools on Canva:</br>
 
-<a href="https://www.vecteezy.com/free-vector/black">Black Vectors by Vecteezy</a>
+https://www.canva.com/design/DAFX_LdQeHg/Agqwne5laEtGWKgu7IiEOw/edit?utm_content=DAFX_LdQeHg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 gitHub Invertocat logo used with permission:</br>
 
