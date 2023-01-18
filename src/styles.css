@@ -94,6 +94,24 @@ p {
   font-weight: 300;
 }
 
+.about-section {
+  display: flex;
+  justify-content: space-around;
+  padding: 80px;
+}
+
+.button {
+  width: 200px;
+  height: 55px;
+  border-radius: 30px;
+  background-color: coral;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 300;
+  padding-top: 5px;
+  margin-top: 20px;
+}
+
 .subtext {
   font-size: 15px;
   font-weight: 300;
