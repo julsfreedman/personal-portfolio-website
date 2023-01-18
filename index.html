@@ -12,9 +12,9 @@
       <nav>
         <img class="logo" src="src\images\JFcustomLogo.png" alt="logo" />
         <ul id="menu-items">
-          <li>About Me</li>
-          <li>Projects</li>
-          <li>Contact</li>
+           <li><a href="#about">About</a></li>
+           <li><a href="#projects">Projects</a></li>
+           <li><a href="#contact">Contact</a></li>
         </ul>
         <button class="hamburger" id="hamburger">&#9776;</button>
       </nav>
@@ -28,8 +28,18 @@
          <div><a href="https://www.linkedin.com/in/juliaf-"><img class="link-logos" src="src\images\LI-In-Bug.png" alt="linkedIn logo" /></a></div>
       </div>
     </section>
-    <section class="projects">
-      <img class="project-dom" src="src\images\tempsnip.png" alt="screenshot capture of project Dom" />
+    <section class="projects-section" id="projects">
+          <h2>Projects</h2>
+          <div class="project-container">
+              <div class="project-card">
+                <img class="project-dom" src="src\images\tempsnip.png" alt="screenshot" />
+                <h3>DOM Based Game</h3>
+                <p class="subtext">A visual DOM based game I built with HTML, CSS, and JavaScript</p>
+                <hr/>
+                <p class="subtext"><a class="project-link" style="color: black;" href="https://julsfreedman.github.io/Mod-1-DOM-Based-Game/">Deployed Live Here</a></p>
+          </div>
+              <div class="project-card"></div>
+              <div class="project-card"></div>
     </section>
             
     <script src="src/app.js"></script>
