@@ -97,6 +97,7 @@ p {
 .subtext {
   font-size: 15px;
   font-weight: 300;
+  margin-top: 5%;
 }
 
 .projects-section {
@@ -114,8 +115,8 @@ p {
 
 .project-card {
   width: 310px;
-  height: 600px;
-  box-shadow: 5px 5px 20px rgb(197, 195, 195);
+  height: 400px;
+  box-shadow: 5px 5px 20px #ae2cae;
   margin: 10px;
 }
 
@@ -174,8 +175,8 @@ a.project-link {
 }
 
 .project-dom {
-  width: 300px;
-  height: 400px;
-  box-shadow: 5px 5px 20px rgb(197, 195, 195);
-  margin: 10px;
+  width: 200px;
+  height: 200px;
+  border: 5px solid #ae2cae;
+  margin-top: 5%;
 }
