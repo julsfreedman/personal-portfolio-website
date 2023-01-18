@@ -1,4 +1,4 @@
-# personal-portfolio-website
+# personal-portfolio-website deployed via GitHub Pages
 
 https://julsfreedman.github.io/personal-portfolio-website/
 
@@ -9,6 +9,15 @@ CSS</br>
 CSS Flexbox (to make the site responsive)
 
 # attributions
+
+allows me to keep my personal email address private:</br>
+
+https://formsubmit.co/
+
+inspiration on how to create a responsive hamburger menu button using JavaScript:</br>
+
+https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0
+https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
 
 personal logo:</br>
 
