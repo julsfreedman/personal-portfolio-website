@@ -1,0 +1,39 @@
+* {
+  background-color: #c02245;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo {
+  width: 20vh;
+  height: 20vh;
+  border-radius: 150px;
+  margin: 2%;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+}
+
+li {
+  width: 200px;
+}
+
+h1 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.headshot {
+  width: 300px;
+  border-radius: 150px;
+}
