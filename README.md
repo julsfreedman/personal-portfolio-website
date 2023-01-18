@@ -6,7 +6,7 @@ https://julsfreedman.github.io/personal-portfolio-website/
 
 HTML</br>
 CSS</br>
-CSS Flexbox (to make the site responsive)
+CSS Flexbox (to make the site responsive)</br>
 JavaScript</br>
 
 # attributions
