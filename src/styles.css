@@ -1,6 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   margin: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #842cae;
+  padding: 0;
 }
 
 .hero {
@@ -98,12 +105,12 @@ p {
   display: flex;
   justify-content: space-around;
   padding: 80px;
-  background-color: ;
+  background-color: #ae2cae;
 }
 
 .button {
   width: 200px;
-  height: 55px;
+  height: 80px;
   border-radius: 30px;
   background-color: coral;
   text-align: center;
@@ -209,5 +216,14 @@ a.project-link {
 
 .contact-section {
   text-align: center;
-  margin: 35px 0 20px 0 !important;
+  margin: 0;
+  background-color: #ae2cae;
+}
+
+.footer-section {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
 }

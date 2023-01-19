@@ -31,3 +31,7 @@ https://github.com/logos
 LinkedIn logo used with permission:</br>
 
 https://brand.linkedin.com/downloads
+
+# wireframe via Figma
+
+<img width="1696" alt="wireframe" src="https://user-images.githubusercontent.com/113859369/213442548-3db6e85c-ac55-4771-8615-d4eb71d18110.png">
