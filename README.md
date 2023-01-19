@@ -1,3 +1,5 @@
+![landingPageCapture](https://user-images.githubusercontent.com/113859369/213469633-5020b9c7-23dc-4f96-8d90-306b8dca6556.PNG)
+
 # personal-portfolio-website deployed via GitHub Pages
 
 https://julsfreedman.github.io/personal-portfolio-website/
