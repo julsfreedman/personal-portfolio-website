@@ -120,6 +120,11 @@ p {
   margin-top: 20px;
 }
 
+.resumeButton:hover {
+  color: fuchsia;
+  font-style: italic;
+}
+
 .subtext {
   font-size: 15px;
   font-weight: 300;
